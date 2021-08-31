@@ -1,0 +1,6 @@
+ticker,open,close,type
+qqq,770,830,p
+qqq,726,824,c
+qqq,1525,1505,p
+qqq,1150,1350,c
+qqq,1000,1313,p
